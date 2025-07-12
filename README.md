@@ -47,7 +47,7 @@ A modern, serverless AI-powered assistant for Limerick, Ireland—helping users 
 
 ## 🏗️ Architecture Diagram
 
-*See `architecture-diagram.jpg` in the repo for a full workflow illustration.*
+![Architecture](https://github.com/TarunBezawada11/Limerick-City-AI-Agent/blob/main/Final%20Architecture.png)
 
 ---
 
